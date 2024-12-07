@@ -58,4 +58,4 @@ npm run claim:claimPong:polygonZKEVMTestnet
 
 ```
 
-- You can check that the value `pingValue` on the `PingReceiver` had change
+- You can check that the value `pingValue` on the `PingReceiver` had change.
